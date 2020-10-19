@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\Assets",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\Views",
+    "\\ViewModels",
+    "\\Views"
+  ],
+  "SelectedNode": "\\ViewModels\\GameViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}
