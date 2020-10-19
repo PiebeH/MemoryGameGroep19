@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Assets",
+    "\\Assets\\Films",
+    "\\Assets\\Planeten",
+    "\\bin",
     "\\bin\\Debug",
     "\\bin\\Debug\\Assets",
-    "\\obj\\Debug",
-    "\\obj\\Debug\\Views",
-    "\\ViewModels",
-    "\\Views"
+    "\\bin\\Debug\\Assets\\Planeten",
+    "\\bin\\Debug\\Assets\\Ruimtevaart",
+    "\\Models"
   ],
-  "SelectedNode": "\\ViewModels\\GameViewModel.cs",
+  "SelectedNode": "\\bin\\Debug\\Assets\\mystery_image.jpg",
   "PreviewInSolutionExplorer": false
 }
