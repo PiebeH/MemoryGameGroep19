@@ -18,9 +18,9 @@ namespace MemoryGame.ViewModels
     //De thema's
     public enum SlideCategories
     {
-        Kids,
+        Films,
         Planeten,
-        Films
+        Ruimtevaart
     }
     public class GameViewModel : ObservableObject
     {
